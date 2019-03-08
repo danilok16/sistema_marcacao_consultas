@@ -1,0 +1,2 @@
+﻿  principal.c
+c:\users\dkaus\documents\visual studio 2017\projects\marcacao_de_consultas\marcacao_de_consultas\principal.c(680): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
